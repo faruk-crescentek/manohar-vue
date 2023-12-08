@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John White",
+            "email": "davidjohnson@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Sarah Smith",
+            "email": "johnsmith@demo.net"
+        },
+        {
+            "id": 3,
+            "name": "David Smith",
+            "email": "johnwhite@demo.net"
+        }
+    ]
+}
